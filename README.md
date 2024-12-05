@@ -4,7 +4,9 @@ I - Contexto:
   - Este projeto foi desenvolvido como parte de um desafio no curso de Formação em Ciência de Dados. O objetivo era aplicar técnicas de regressão para analisar um dataset de campanhas de marketing e construir um modelo preditivo que estimasse o retorno de vendas baseado  em investimentos em publicidade.  A empresa fictícia utilizada no desafio investe mensalmente em plataformas de publicidade online, como YouTube, Facebook e jornal, e deseja entender a relação entre esses investimentos e os retornos de vendas gerados. Com isso, pretende-se identificar os fatores que mais impactam na geração de leads e criar um modelo de predição de valores.
 
 II - Estrutura do Projeto
-  O projeto está dividido nas seguintes etapas:
+  O projeto está dividido nas seguintes etapas: 
+  ```python teste```
+  
 
   1. Análise Descritiva
     - Nesta etapa, realizamos uma exploração inicial dos dados para obter uma compreensão geral das variáveis e suas distribuições. As ações incluem:
