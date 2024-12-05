@@ -5,7 +5,9 @@ I - Contexto:
 
 II - Estrutura do Projeto
   O projeto está dividido nas seguintes etapas: 
-  ```python teste```
+    ```python
+      def hello_world():
+      print("Hello, world!") ```
   
 
   1. Análise Descritiva
