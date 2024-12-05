@@ -5,10 +5,6 @@ I - Contexto:
 
 II - Estrutura do Projeto
   O projeto está dividido nas seguintes etapas: 
-    ```python
-      def hello_world():
-      print("Hello, world!") ```
-  
 
   1. Análise Descritiva
     - Nesta etapa, realizamos uma exploração inicial dos dados para obter uma compreensão geral das variáveis e suas distribuições. As ações incluem:
